@@ -1,2 +1,2 @@
-# docker-golang-rpm-builder
-golang-rpm-builder
+# docker-rpm-builder
+rpm-builder
