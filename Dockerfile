@@ -1,4 +1,4 @@
-FROM centos:6
+FROM amazonlinux:1
 
 RUN yum install -y \
   git \
