@@ -17,5 +17,4 @@ $ docker run --rm -v "$(PWD)":/workspace -v "$(PWD)/rpmbuild":/rpmbuild masahide
 
 ## Tags
 
-- `centos6` : based on `centos:6`
-- `centos7` : based on `centos:7`
+- `centos7-goofys` : based on `centos:7`
