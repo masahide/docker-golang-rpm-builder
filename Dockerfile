@@ -12,6 +12,7 @@ RUN yum install -y \
   python-pip \
   rpm-build \
   rpm-sign \
+  createrepo \
   && yum clean all
 
 RUN pip install --upgrade pip \
